@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SubscriptionCollection</string>
+    <string name="login_failed">Failed to fetch the names of Volunteers.</string>
+</resources>
